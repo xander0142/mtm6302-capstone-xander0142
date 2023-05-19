@@ -1,1 +1,1 @@
-# mtm6302-capstone
+Alexander Pham
