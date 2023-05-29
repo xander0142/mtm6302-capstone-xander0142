@@ -1,5 +1,5 @@
 # Alexander Pham 
 040962961
 Capstone Project - Part 1
-Astronomy Picture of the Day Search
+The project I plan that I intend to complete is the Pokedex
 
